@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f50c0db33a4e7ebccf62938ef27aacda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1f34c3fe44249360616d95420d05e9c4/AndroidManifest.xml:2:1-11:12
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:2:1-58:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1016d77c716fff6b7488c3aeb30c8d26/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/480436ac373571bb2a05f55c0ea9274e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ff589c54ac13419a276851a269df4217/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/7cccaa0d84e7b644f6d190f0b6c9eb63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/a529ab76e1f70e62d939d32176c48f61/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/e9c313006ebc93b7598371bd5f835614/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/c68cfac36e6e61f78b034d9f7402b64e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/db1f34ef18719dbb2f1463033e17097f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/a6f88a82a77651c8c537b4f95b49670d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/adc9e709c88950f0f75cce9340520946/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/83db6f509e18e53e37679ff268a3a7bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/be28c493752499c94a7c54b0df028b6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/62f21e2226f866f5037f5545b0831a8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f4e14110e8793a20b47f156ecc324a75/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/4ef9be423233019a74aaf9dd1a9f605d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/742ce3e47f3aed6d691cde84ba82b33e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/cb8d38ea170f130b0d4f8e081e55edc9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/d68c3a18c179f9e49910fe60e094945d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/e14a2df7f00885af8666a1164d59d8d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/892e30cba3493b9171dc644f6dd8067b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/2c7b117f811ad6c8b9f8e89bdb15dc04/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/cf43343ecd7aa89810f7c8892be1b8da/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/bc750d7b4b702fe12e5cbaa38b10d51c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/9be377887c6be4ca06c2631fd63a1f7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/d2725abb51e188a452e60cfeae560fff/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:11:5-13:36
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:7:5-73
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:14:5-16:36
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:10:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1f34c3fe44249360616d95420d05e9c4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1f34c3fe44249360616d95420d05e9c4/AndroidManifest.xml:9:5-20
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:20:5-56:19
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:20:5-56:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f4e14110e8793a20b47f156ecc324a75/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f4e14110e8793a20b47f156ecc324a75/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/4ef9be423233019a74aaf9dd1a9f605d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/4ef9be423233019a74aaf9dd1a9f605d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f4e14110e8793a20b47f156ecc324a75/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.afarghaly.ble_7.MainActivity
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f50c0db33a4e7ebccf62938ef27aacda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f50c0db33a4e7ebccf62938ef27aacda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1f34c3fe44249360616d95420d05e9c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1f34c3fe44249360616d95420d05e9c4/AndroidManifest.xml:5:5-7:41
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:7:5-9:41
+MERGED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1016d77c716fff6b7488c3aeb30c8d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/1016d77c716fff6b7488c3aeb30c8d26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/480436ac373571bb2a05f55c0ea9274e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/480436ac373571bb2a05f55c0ea9274e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ff589c54ac13419a276851a269df4217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ff589c54ac13419a276851a269df4217/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/7cccaa0d84e7b644f6d190f0b6c9eb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/7cccaa0d84e7b644f6d190f0b6c9eb63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/a529ab76e1f70e62d939d32176c48f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/a529ab76e1f70e62d939d32176c48f61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/e9c313006ebc93b7598371bd5f835614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/e9c313006ebc93b7598371bd5f835614/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/c68cfac36e6e61f78b034d9f7402b64e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/c68cfac36e6e61f78b034d9f7402b64e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/db1f34ef18719dbb2f1463033e17097f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/db1f34ef18719dbb2f1463033e17097f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/a6f88a82a77651c8c537b4f95b49670d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/a6f88a82a77651c8c537b4f95b49670d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/adc9e709c88950f0f75cce9340520946/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/adc9e709c88950f0f75cce9340520946/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/83db6f509e18e53e37679ff268a3a7bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/83db6f509e18e53e37679ff268a3a7bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/be28c493752499c94a7c54b0df028b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/be28c493752499c94a7c54b0df028b6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/62f21e2226f866f5037f5545b0831a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/62f21e2226f866f5037f5545b0831a8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f4e14110e8793a20b47f156ecc324a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/f4e14110e8793a20b47f156ecc324a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/4ef9be423233019a74aaf9dd1a9f605d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/4ef9be423233019a74aaf9dd1a9f605d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/742ce3e47f3aed6d691cde84ba82b33e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/742ce3e47f3aed6d691cde84ba82b33e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/cb8d38ea170f130b0d4f8e081e55edc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/cb8d38ea170f130b0d4f8e081e55edc9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/d68c3a18c179f9e49910fe60e094945d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/d68c3a18c179f9e49910fe60e094945d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/e14a2df7f00885af8666a1164d59d8d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/e14a2df7f00885af8666a1164d59d8d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/892e30cba3493b9171dc644f6dd8067b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/892e30cba3493b9171dc644f6dd8067b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/2c7b117f811ad6c8b9f8e89bdb15dc04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/2c7b117f811ad6c8b9f8e89bdb15dc04/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/cf43343ecd7aa89810f7c8892be1b8da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/cf43343ecd7aa89810f7c8892be1b8da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/bc750d7b4b702fe12e5cbaa38b10d51c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/bc750d7b4b702fe12e5cbaa38b10d51c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/9be377887c6be4ca06c2631fd63a1f7c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/9be377887c6be4ca06c2631fd63a1f7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/d2725abb51e188a452e60cfeae560fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/d2725abb51e188a452e60cfeae560fff/AndroidManifest.xml:20:5-44
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		ADDED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/a.farghaly/Desktop/Andriod/Current_Apps/ble_7/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:17:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:18:22-78
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:21:19-87
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED+action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:23:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:23:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:24:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:24:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:25:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:25:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:29:9-34:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:31:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:32:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:30:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:36:13-70
+service#org.altbeacon.beacon.service.ScanJob
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:39:9-48:19
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:41:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:40:13-64
+meta-data#immediateScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:42:13-44:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:44:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:43:17-50
+meta-data#periodicScanJobId
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:45:13-47:45
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:47:17-42
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:46:17-49
+service#org.altbeacon.bluetooth.BluetoothTestJob
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:49:9-55:19
+	android:permission
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:50:13-68
+meta-data#jobId
+ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:52:13-54:46
+	android:value
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:54:17-43
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.16.1] /Users/a.farghaly/.gradle/caches/transforms-2/files-2.1/ef5c56175a80a4f93f2895f99ee9a5ab/AndroidManifest.xml:53:17-37
